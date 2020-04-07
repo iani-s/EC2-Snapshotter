@@ -2,8 +2,7 @@
 Project to manage AWS EC2 instance snapshots
 
 ## About
-This project uses boto3 to manage AWS EC2 instance snapshots
-Code can be viewed in the "shotty" folder of the repo
+This project uses boto3 to manage AWS EC2 instance snapshots. Code can be viewed in the "shotty" folder of the repo.
 
 ## Configuring
 shotty uses the configuration file created by the AWS CLI e.g.
