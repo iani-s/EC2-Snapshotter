@@ -8,7 +8,7 @@ setup(
     description='EC2-Snapshotter is a tool to manage AWS EC2 snapshots',
     license='GPLv3+',
     packages=['shotty'],
-    url='https://github.com/yawny-tsunami/EC2-Snapshotter',
+    url='https://github.com/iani-s/EC2-Snapshotter',
     install_requires=[
     'click',
     'boto3'
